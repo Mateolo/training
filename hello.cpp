@@ -13,6 +13,7 @@ int main () {
 	cout << "Omegalul" << i <<  endl;
     cout << "Hello Master" << endl;
 	cout << i <<  endl;
+        cout << "Lul";
     
 return 0;
 }
