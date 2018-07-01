@@ -1,12 +1,11 @@
 #include <iostream>
-#include "hellp.hpp"
+#include "hello.hpp"
 using namespace std;
 
 int main () {
     cout << "Hello World!" << endl;
-    for (int i=0;i<10;i++) {
-	cout << "Omegalul" << i <<  endl;
-	}
+    cout << "Hello Coders School" << endl;
+    cout << "Hello Master" << endl;
     
 return 0;
 }
