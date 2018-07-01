@@ -4,6 +4,10 @@ using namespace std;
 
 int main () {
     cout << "Hello World!" << endl;
-    return 0;
+    for (int i=0;i<10;i++) {
+	cout << "Omegalul" << i <<  endl;
+	}
+    
+return 0;
 }
 
